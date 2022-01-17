@@ -4,7 +4,7 @@ resources:
 
 images:
 - name: quay.io/redhat-appstudio/component-a
-  newName: quay.io/sbose78/foobar
+  newName: docker.io/sbose78/foobar
   newTag: dev-code-with-quarkus
 
 
